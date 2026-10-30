@@ -48,12 +48,12 @@ We started as ~600 people in a WhatsApp group. Today 1,000+ of us meet across Wh
     <td valign="middle"><b>EXE</b><br>Our recurring event series.<br><i>EXE 2027: August 2027</i></td>
   </tr>
   <tr>
-    <td width="130" align="center"><b>LKGDC</b></td>
-    <td valign="middle">Lanka Game Developers Conference, Sri Lanka's first game developer conference.<br><i>Next edition: August 2027</i></td>
+    <td width="130" align="center"><img src="assets/lkgdc.png" alt="LKGDC, Lanka Game Developers Conference, logo" width="110"></td>
+    <td valign="middle"><b>LKGDC</b><br>Lanka Game Developers Conference, Sri Lanka's first game developer conference.<br><i>Next edition: August 2027</i></td>
   </tr>
   <tr>
-    <td width="130" align="center"><b>Night Serpent</b></td>
-    <td valign="middle">eSport tournaments and contests.<br><i>Watch this space</i></td>
+    <td width="130" align="center"><img src="assets/night-serpent.png" alt="Night Serpent logo: a purple serpent coiled around a shield" width="110"></td>
+    <td valign="middle"><b>Night Serpent</b><br>eSport tournaments and contests.<br><i>Watch this space</i></td>
   </tr>
 </table>
 

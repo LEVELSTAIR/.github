@@ -9,7 +9,7 @@
 ### Build games. Climb together.
 
 **Levelstair** is a Sri Lanka-based studio and community making games, 2D animation and XR experiences, and backing VTuber and creator talent.
-We started as ~600 people in a WhatsApp group. Today 1,000+ of us meet across WhatsApp, Discord and Facebook, with a member portal to keep building.
+We started as ~600 people in a WhatsApp group. Today 1,000+ of us meet across WhatsApp, Discord, Facebook and our portal.
 
 </div>
 
@@ -21,8 +21,7 @@ We started as ~600 people in a WhatsApp group. Today 1,000+ of us meet across Wh
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 Games</h3>
-      Original games made in Sri Lanka. Our first one is live on CrazyGames.
-      <!-- TODO: add game title + CrazyGames URL -->
+      Original games made in Sri Lanka.
     </td>
     <td width="50%" valign="top">
       <h3>🎞️ 2D Animation</h3>
@@ -46,25 +45,24 @@ We started as ~600 people in a WhatsApp group. Today 1,000+ of us meet across Wh
 | | What it is | When |
 |---|---|---|
 | 🪜 **Level Zero** | Our monthly game jam series, run on the [member portal](https://portal.levelstair.com). | 2nd Saturday of every month |
-| 🎤 **LKGDC** | Lanka Game Developers Conference, Sri Lanka's first game developer conference. | August 2027 <!-- TODO: exact dates --> |
-| ⚡ **EXE** | Our recurring event series. | EXE 2027: August 2027 <!-- TODO: exact dates + one-line description --> |
-| 🐍 **Night Serpent** | eSport tournaments and contests. | Announced on the portal <!-- TODO: confirm where schedule is published --> |
+| 🎤 **LKGDC** | Lanka Game Developers Conference, Sri Lanka's first game developer conference. | August 2027 |
+| ⚡ **EXE** | Our recurring event series. | EXE 2027: August 2027 |
+| 🐍 **Night Serpent** | eSport tournaments and contests. | Watch this space |
 
-**Weekly meetup:** every Friday, 8:30 PM (Sri Lanka time), virtual on Google Meet. Everyone is welcome. <!-- TODO: Google Meet link -->
+**Weekly meetup:** Fridays, 8:30 PM (Sri Lanka time), virtual. The link is on the [portal](https://portal.levelstair.com). Everyone is welcome.
 
 ## Join us
 
 <div align="center">
 
 [![Member portal](https://img.shields.io/badge/Member_portal-portal.levelstair.com-F2C14E?style=for-the-badge&labelColor=0B1426)](https://portal.levelstair.com)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2KkS3BFRfp)
+[![Facebook](https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/groups/levelstair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Levelstair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/levelstair/)
 [![Website](https://img.shields.io/badge/Website-levelstair.com-9ADCFF?style=for-the-badge&labelColor=0B1426)](https://levelstair.com)
 [![Email](https://img.shields.io/badge/Email-team@levelstair.com-9ADCFF?style=for-the-badge&labelColor=0B1426)](mailto:team@levelstair.com)
 
-<!-- TODO: add invite badges once URLs are confirmed (Discord, WhatsApp, Facebook Group):
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](DISCORD_INVITE_URL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](WHATSAPP_INVITE_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](FACEBOOK_GROUP_URL)
--->
+Want the WhatsApp community? Join through the [portal](https://portal.levelstair.com).
 
 </div>
 
